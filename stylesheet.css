@@ -1,0 +1,43 @@
+body {
+    background-color:darkorange;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+#header{
+    background-color: rgba(255, 196, 0, 0.813);
+    text-align: center;
+    border-radius: 25%;
+    border-width: 3px;
+    border-style: dotted;
+
+}
+#lists{
+    border-width: 1px;
+    border-style: dashed;
+    border-color:black;
+    padding: 15px;
+    margin-left: 25%
+}
+#navlinks{
+    position: fixed;
+}
+img{
+    width: 50%;
+    height: 50%;
+    border-radius: 65%;
+    border-width: 2px;
+    border-style: dashed;
+    display:block;
+    margin-left: 2%;
+    margin-right: 25%;
+
+}
+#footer{
+    background-color: rgba(255, 196, 0, 0.813);
+    text-align: center;
+    border-color: black;
+    border-width: 3px;
+    border-style: dotted;
+    margin-top: 15px;
+}
